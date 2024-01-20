@@ -7,6 +7,7 @@ import urllib
 from pathlib import Path
 import foo
 import bar
+import baz
 
 from gi.repository import Gio
 
