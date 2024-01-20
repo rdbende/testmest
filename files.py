@@ -30,6 +30,7 @@ class Files(EventSender):
 
     def __init__(self):
         super().__init__()
+        assert False
 
     def copy(self, selection):
         log.info("Start of copying files")
